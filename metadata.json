@@ -1,0 +1,6 @@
+{
+  "name": "TradeVault - Rekap & Jurnal Trading Harian",
+  "description": "Aplikasi jurnal dan rekap trading harian profesional untuk Forex dan Emas (XAU/USD) dengan visualisasi grafik bulanan, kalkulasi otomatis profit/rugi IDR, evaluasi strategi, dan ekspor Excel & PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
